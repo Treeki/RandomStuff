@@ -1,3 +1,10 @@
+// decompressor for Wii .LH files
+// real name for the format unknown, but it's used in Mario Sports Mix and
+// probably other games too
+
+// written by Treeki <treeki@gmail.com>
+// licensed under the WTFPL (Do What The Fuck You Want To Public License)
+
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -239,6 +246,8 @@ int main(int argc, char **argv) {
 	u8 *inBuf, *outBuf;
 	int inLength, outLength;
 	LHContext context;
+	
+	cout << "LH Decompressor by Treeki" << endl;
 	
 	// sanity check -- todo, more error checking..
 	if (argc < 3) {
