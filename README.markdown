@@ -6,6 +6,19 @@ doesn't really need one repo. Currently, not that much, but it could change..
 And it's not Wii-specific any more. :p
 
 
+Wii U GTX Extractor
+-------------------
+
+Extracts textures in RGBA8 and DXT5 formats from the 'Gfx2' (.gtx file
+extension) format used in Wii U games. A bit of work could get it to extract
+.bflim files, too.
+
+Somewhat unfinished, pretty buggy. Use at your own risk. It's not great, but I
+figured I'd throw it out there to save other people the work I already did.
+
+More details on compilation and usage in the comments inside the file.
+
+
 LH Decompressor
 ---------------
 
