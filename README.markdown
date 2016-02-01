@@ -53,3 +53,14 @@ I hope it does.
     gcc -o SegaLZS2 SegaLZS2Decomp.c
     ./SegaLZS2 sourceFile.bin destFile.bin
 
+
+Hammer Decompressor
+-------------------
+
+Unpacks a format found in the Acorn Archimedes game 'OddBall'. It appears to
+be called 'hammer' and files compressed with it are identified by the magic
+string `Hmr\0` or `48 6D 72 00`. Is it used anywhere else? No idea!
+
+    python hammer_decomp.py Sounds/MUSIC music_decomp
+
+
