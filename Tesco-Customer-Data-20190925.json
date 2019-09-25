@@ -1,0 +1,6741 @@
+{
+  "Customer Profile And Contact Data": {
+    "Online Account": {
+      "email address": "ninji@wuffs.org",
+      "surname": "Wolf",
+      "first name": "Ash",
+      "marketing preferences": {
+        "consent status": "OptedIn",
+        "consent timestamp": "2018-05-21T10:56:38Z"
+      },
+      "phone number": {
+        "day telephone": ["[REDACTED]"],
+        "evening telephone": ["[REDACTED]"],
+        "mobile telephone": [""]
+      },
+      "middle name": "   ",
+      "title": "Mx  ",
+      "postal address": [{
+        "address": "[REDACTED]",
+        "postcode": "[REDACTED]"
+      }],
+      "registered clubcard": "634004 **** **** [REDACTED]"
+    },
+    "Clubcard Accounts": {
+      "email address": "ninji@wuffs.org",
+      "dob": "[REDACTED]",
+      "user mail status": "Mailable",
+      "surname": "Wolf",
+      "sex": "",
+      "first name": "Ash",
+      "preferences": ["Diabetic:OptOut", "Kosher:OptOut", "Halal:OptOut", "Vegetarian:OptOut", "Teetotal:OptOut", "E-Mail Contact:OptIn", "Mobile/SMS:OptOut", "Post Contact:OptOut", "Post Large Print:OptOut", "Bonus Coupon Mailing:OptIn"],
+      "phone number": {
+        "day telephone": "",
+        "evening telephone": "",
+        "mobile telephone": ""
+      },
+      "no of household members": 0,
+      "middle name": "",
+      "title": "Mx",
+      "marketing consents": ["Tesco Products:OptIn", "Tesco Partners:OptIn"],
+      "postal address": {
+        "address line 3": "GLASGOW",
+        "address line 5": "",
+        "address line 4": "GLASGOW",
+        "postcode": "[REDACTED]",
+        "address line 1": "[REDACTED]",
+        "address line 2": "[REDACTED]"
+      },
+      "user status": "Active",
+      "registered clubcard": ["[REDACTED]"]
+    },
+    "Marketing Preferences": {
+      "preference": ["(UK)GHSProductsandServices:ContactMe", "CouponIssued:ContactMe"],
+      "email address": ["ninji@wuffs.org"]
+    }
+  },
+  "Purchase": [[{
+    "basketValueGross": "1.1",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6353",
+    "storeAddress": "Unit 6/7 Merchant Bui,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.1"
+    }],
+    "timeStamp": "2019-09-05 22:24:19",
+    "basketValueNet": "1.1",
+    "says": "NA",
+    "storeName": "GLASGOW MERCHANT EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Tesco Linguine Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Linguine Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.55",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.5"
+    }],
+    "timeStamp": "2019-08-28 17:15:08",
+    "basketValueNet": "1.5",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Ready To Bake Triple Chocolate Chip Cookie Dough 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.25"
+    }],
+    "timeStamp": "2019-08-09 23:26:07",
+    "basketValueNet": "3.25",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Cosmo Margherita Pizza 370G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "John West No Drain Tuna Fridge Pot Springwater 110G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.39",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6174",
+    "storeAddress": "166 Heath Road,TWICKENHAM,LONDON",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.39"
+    }],
+    "timeStamp": "2019-08-02 13:24:57",
+    "basketValueNet": "1.39",
+    "says": "NA",
+    "storeName": "TWICKENHAM LDN EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.65",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "6.65"
+    }],
+    "timeStamp": "2019-07-16 17:27:39",
+    "basketValueNet": "6.65",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco 4 Belgian Chocolate Eclairs",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.93",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Simple Kind Gentle Care Shampoo 200Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ginsters Premium Cornish Pasty 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.22",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Chocolate Profiteroles 18 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "15.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "3573",
+    "storeAddress": "JERVIS ST SHOPPING CE,DUBLIN",
+    "paymentType": [{
+      "type": "MASTERCARD_DEBIT",
+      "category": "DEBIT CARD",
+      "amount": "15.0"
+    }],
+    "timeStamp": "2019-07-13 15:12:01",
+    "basketValueNet": "15.0",
+    "says": "NA",
+    "storeName": "JERVIS STREET",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Contigo Ashland Bottle Purple 710Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "15.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.74",
+    "purchaseType": "instore",
+    "overallBasketSavings": "2.74",
+    "storeId": "3573",
+    "storeAddress": "JERVIS ST SHOPPING CE,DUBLIN",
+    "paymentType": [{
+      "type": "MASTERCARD_DEBIT",
+      "category": "DEBIT CARD",
+      "amount": "7.0"
+    }],
+    "timeStamp": "2019-07-11 18:58:28",
+    "basketValueNet": "7.0",
+    "says": "NA",
+    "storeName": "JERVIS STREET",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Finest Belgian Triple Chocolate Muffin",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Jacobs Elite Teacakes 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.35",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Jacobs Elite Chocolate Dream 132G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.39",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.2",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "9.2"
+    }],
+    "timeStamp": "2019-07-09 14:51:56",
+    "basketValueNet": "9.2",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Terry's Chocolate Orange Mini's Bag 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "TESCO SCOTTISH B BAG FOR LIFE",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cadbury Heroes 290G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Dried Oregano 14G Jar",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Dried Thyme 16G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cadbury Heroes 290G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cut Basil 30G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "12.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "11.0"
+    }],
+    "timeStamp": "2019-07-03 14:19:50",
+    "basketValueNet": "11.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Finest Chicken Korma With Pilau Rice 450G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Sensodyne Repair & Protect Sensitive Toothpaste 75Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "5.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Fin Jalfrezi With Pilau Rice 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.1",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.1"
+    }],
+    "timeStamp": "2019-06-13 17:01:25",
+    "basketValueNet": "1.1",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Springforce Jumbo Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "11.85",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.2",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "11.65"
+    }],
+    "timeStamp": "2019-06-02 18:10:50",
+    "basketValueNet": "11.65",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Medium Free Range Eggs 12 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.69",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Stonebaked Chicken & Bacon Pizza 293G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Andrex Washlets Refill",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.95",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.95",
+    "storeId": "6221",
+    "storeAddress": "Retail concession, Te,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2019-05-15 11:21:03",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "GLASGOW AIRPORT EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Hula Hoops Original Grab Bag 50G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Shaken Udder Chocolush Milkshake 330Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Falafel & Houmous Wrap",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2019-04-27 16:43:52",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Thorntons Milk Nut Egg 328G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.2",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "MASTERCARD_DEBIT",
+      "category": "DEBIT CARD",
+      "amount": "6.2"
+    }],
+    "timeStamp": "2019-04-25 23:22:16",
+    "basketValueNet": "6.2",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Coca Cola Regular 500 Ml Meal Deal (P)",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Gaviscon Double Action Mint 24 Tablets",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mackies Haggis & Cracked Black Pepper Crisps 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.2",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.2",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "2.0"
+    }],
+    "timeStamp": "2019-04-05 19:52:35",
+    "basketValueNet": "2.0",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.88",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "6.88"
+    }],
+    "timeStamp": "2019-04-04 21:37:07",
+    "basketValueNet": "6.88",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Nestle Honey Cheerios Cereal 375G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Wahaca Plain Flour Tortilla 264G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.28",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Shaken Udder Chocolush Milkshake 330Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Moo Organic Longlife Semi Skimmed Milk 1L",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pagen Gifflar Cinnammon 260G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Moo Organic Longlife Semi Skimmed Milk 1L",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.89",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.8",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "7.09"
+    }],
+    "timeStamp": "2019-04-03 17:56:51",
+    "basketValueNet": "7.09",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "CTR EXTRA TASTY BRITISH ROAST CHICKEN",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Smashed Chocolate Egg Cookies 5 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Toastie Wholemeal Thick Bread 800G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.59",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Red Leicester 10 Slices 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Edam Slices 240G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mission Deli 6 Wheat & White Mini Wraps",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.47",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Chocolate Croissant 2 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.33",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.2",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "4.2"
+    }],
+    "timeStamp": "2019-03-28 17:17:09",
+    "basketValueNet": "4.2",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Twinings Pure Camomile Teabag 20S 30G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cauldron Falafel 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 2 Crispy Chicken 170G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.95",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "1.95"
+    }],
+    "timeStamp": "2019-03-27 17:56:44",
+    "basketValueNet": "1.95",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Mission Deli 6 Wheat & White Mini Wraps",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.47",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tomato, Cheese & Garlic Swirly",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.22",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Salted Caramel Profiteroles 6 Pack 124G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.26",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "8.45",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "8.45"
+    }],
+    "timeStamp": "2019-03-23 15:43:42",
+    "basketValueNet": "8.45",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mexican Inspired Pulled Chicken 180G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Corsodyl Daily Mouthwash Freshmint Alcohol Free 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "4.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Carex Advanced Protect Marine Mineral Hand Wash 250Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.3",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6430",
+    "storeAddress": "30-38 Maid Marian Way,NOTTINGHAM,NOTTINGHAMSHIRE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "1.3"
+    }],
+    "timeStamp": "2019-03-17 21:41:35",
+    "basketValueNet": "1.3",
+    "says": "NA",
+    "storeName": "MAID MAR WY NOTT EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.34",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.34",
+    "storeId": "2836",
+    "storeAddress": "6G ROAD,LLANDUDNO JUNCTION,LLANDUDNO,GWYNEDD",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2019-03-09 17:10:48",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "LLANDUDNO JUNCTION",
+    "storeFormat": "SuperStore",
+    "product": [{
+      "name": "Tesco Falafel & Houmous Wrap",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Copella Apple Juice 330Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.19",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Walkers Ready Salted Crisps 34.5G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.0"
+    }],
+    "timeStamp": "2019-03-07 13:39:38",
+    "basketValueNet": "2.0",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Finest White Chocolate & Honeycomb Cookie 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Rowan Glen Luxury Rich & Creamy Peach 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.55",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.75",
+    "storeId": "5769",
+    "storeAddress": "HERMISTON GAIT RETAIL,CULTINS ROAD,EDINBURGH,LOTHIAN",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "0.74"
+    }, {
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "6.06"
+    }],
+    "timeStamp": "2019-03-06 20:11:34",
+    "basketValueNet": "6.8",
+    "says": "NA",
+    "storeName": "EDINBURGH HERMISTON",
+    "storeFormat": "SuperStore",
+    "product": [{
+      "name": "Tesco Cheese & Tomato Cappelletti 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Potato Lattices 550G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets In Tomato 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Large Wholemeal Bap 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2019-02-09 22:38:33",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Mission Deli. Wraps Wholemeal 8 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.4",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "2.4"
+    }],
+    "timeStamp": "2019-02-08 16:21:50",
+    "basketValueNet": "2.4",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Garlic 3 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Linguine Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Shallots Onions 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "14.54",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.8",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "13.74"
+    }],
+    "timeStamp": "2019-02-07 13:19:28",
+    "basketValueNet": "13.74",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Oreo White Chocolate Covered 246G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.62",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Lamb Mince 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "4.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Heinz Soup Of The Day Chicken & Parsnip 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Heinz Soup Of The Day Potato & Leek Soup 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Tenderleaf Salad 85G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cauldron Falafel 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pizza Express Dough Balls 95G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pagen Gifflar Cinnammon 260G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Oreo White Chocolate Covered 246G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.62",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bahlsen Choco Leibniz White Biscuits 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "15.55",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "15.55"
+    }],
+    "timeStamp": "2019-01-01 13:47:46",
+    "basketValueNet": "15.55",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Rustlers Cheeseburger 162G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mcintosh Mince & Tatties 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Thin & Crispy Pepperoni Pizza 278G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Sm12 Sandwich Toaster Ss18",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "10.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.75",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "9.75"
+    }],
+    "timeStamp": "2018-12-22 13:29:48",
+    "basketValueNet": "9.75",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Grahams Unsalted Block Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tate & Lyle Fairtrade Light Muscovado 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets In Tomato 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Plain Flour 1Kg",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Linguine Spinach 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Non Stick Baking Paper 370Mm X 15M",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.99",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "3573",
+    "storeAddress": "JERVIS ST SHOPPING CE,DUBLIN",
+    "paymentType": [{
+      "type": "MASTERCARD_DEBIT",
+      "category": "DEBIT CARD",
+      "amount": "4.99"
+    }],
+    "timeStamp": "2018-12-08 16:33:30",
+    "basketValueNet": "4.99",
+    "says": "NA",
+    "storeName": "JERVIS STREET",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Lilys Dulche De Leche Marbled",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "O'donnells Ballymaloe Sharing 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "GIFT_CARD",
+      "category": "E-Purse Redemption",
+      "amount": "2.5"
+    }],
+    "timeStamp": "2018-12-07 13:36:34",
+    "basketValueNet": "2.5",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Spanish Tortilla 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.25"
+    }],
+    "timeStamp": "2018-11-21 21:46:26",
+    "basketValueNet": "3.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Extra Virgin Olive Oil 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "23.74",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.8",
+    "storeId": "5293",
+    "storeAddress": "DALMARNOCH ROAD,RUTHERGLEN,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "22.94"
+    }],
+    "timeStamp": "2018-10-23 03:39:11",
+    "basketValueNet": "22.94",
+    "says": "NA",
+    "storeName": "RUTHERGLEN EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 4 Southern Fried Breaded Chicken Steaks 505G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Springforce Jumbo Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Curry Sauce 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets In Tomato 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Hovis Original Wheatgerm Bread 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Medium Cheddar Cheese 220G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Energizer Max AAA 12 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "5.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets In Tomato 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mackies Haggis & Cracked Black Pepper Crisps 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Fair Trade Banana 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Ready To Eat Sliced Roast Chicken Breast 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Andrex Toilet Tissue 4 Roll Gentle Clean",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "17.47",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.48",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "15.99"
+    }],
+    "timeStamp": "2018-10-15 20:41:03",
+    "basketValueNet": "15.99",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Universal Bag For Life",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cauldron Falafel 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.38",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "T.Flavoured Milk Chocolate Brownie 330Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "John West Steam Pot Tuna Infusions Basil 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Schwartz Mixed Herbs Organic Refill 12G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.45",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Charlie Bigham's Lasagne 355G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.06",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Shaken Udder Chocolush Milkshake 330Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tomato Garlic & Cheese Doughballs 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Maltesers Chocolate Buttons Large Pouch 159G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Schwartz Garlic Salt 73G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Whole Wheat Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "John West Steam Pot Tuna Infusions Basil 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.49",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Rocks Organic Blackcurrant Squash 740Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.15",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5441",
+    "storeAddress": "GREENOCK ROAD,PORT GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.15"
+    }],
+    "timeStamp": "2018-10-14 21:27:55",
+    "basketValueNet": "2.15",
+    "says": "NA",
+    "storeName": "PORT GLASGOW EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Organic Brown Onions 940G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Garlic 3 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.9",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.0"
+    }],
+    "timeStamp": "2018-10-10 20:28:35",
+    "basketValueNet": "5.0",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Chocolate & Hazelnut Filled Cookies 5 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Dolmio Pasta Vita Carbonara 270G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pagen Gifflar Cinnammon 260G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Dolmio Pasta Vita Bolognese 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pagen Gifflar Cinnammon 260G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2018-09-07 18:21:48",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Springforce Jumbo Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "other",
+      "category": "other",
+      "amount": "NA"
+    }],
+    "timeStamp": "2018-09-04 17:29:14",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Chocolate Nut Tear And Share Bun",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.04",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.04"
+    }],
+    "timeStamp": "2018-08-28 13:23:12",
+    "basketValueNet": "5.04",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Fair Trade Banana 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cadbury Wispa Bar 39G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Andrex Toilet Tissue White 4 Roll",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Peach & Apricot Yogurt Drinks 6X100g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.25"
+    }],
+    "timeStamp": "2018-08-24 13:24:18",
+    "basketValueNet": "2.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.15",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Semi- Skimmed Milk 1.136L/2 Pints",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.96",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "6.96"
+    }],
+    "timeStamp": "2018-08-02 13:25:31",
+    "basketValueNet": "6.96",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 4 Crispy Chicken 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.18",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.18"
+    }],
+    "timeStamp": "2018-07-27 18:27:58",
+    "basketValueNet": "2.18",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Stonebaked Spinach & Ricotta Pizza 334G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Wholemeal Loaf Sliced 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.38",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.39",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6257",
+    "storeAddress": "17 Millbrae Rd,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.39"
+    }],
+    "timeStamp": "2018-07-26 21:08:23",
+    "basketValueNet": "1.39",
+    "says": "NA",
+    "storeName": "GLASGOW MLBRAE RD EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.5"
+    }],
+    "timeStamp": "2018-07-17 22:54:54",
+    "basketValueNet": "2.5",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Birds Eye Cod Fish Fingers 10 Pack 280G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "28.4",
+    "purchaseType": "instore",
+    "overallBasketSavings": "2.3",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "26.1"
+    }],
+    "timeStamp": "2018-07-10 19:20:26",
+    "basketValueNet": "26.1",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Nestle Nesquick Milk Slice Chocolate Flavour 4X26g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Lamb, Rosemary & Garlic Mezzalune 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "TP-Link AC600 Dual-Band Archer T2U",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "15.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ben & Jerry's Topped Chocolate Cookie Dough Ice Cream 470Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Tomato & Burrata Ravioli 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Heinz Spaghetti Hoops In Tomato Sauce 205G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets In Tomato 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "10.68",
+    "purchaseType": "instore",
+    "overallBasketSavings": "2.23",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "8.45"
+    }],
+    "timeStamp": "2018-07-09 19:02:06",
+    "basketValueNet": "8.45",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Prime Mince Beef 500G 18% Fat",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cinnamon Bun",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Italian Basil Pesto Tortelloni 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Doritos Hot Salsa Dip 326G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Doritos Cool Original 245G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.99",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.39",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "6.39"
+    }],
+    "timeStamp": "2018-07-06 16:17:53",
+    "basketValueNet": "6.39",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Andrex Washlets Gentle Clean 42 Refill Wipes",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Andrex Toilet Tissue 4 Roll Gentle Clean",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pizza Express Dough Balls 95G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Granini Peach Drink 1Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.0"
+    }],
+    "timeStamp": "2018-06-13 17:19:49",
+    "basketValueNet": "2.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Chocolate & Hazelnut Filled Cookies 5 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Springforce Jumbo Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.49",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "5293",
+    "storeAddress": "DALMARNOCH ROAD,RUTHERGLEN,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "9.24"
+    }],
+    "timeStamp": "2018-05-31 02:00:13",
+    "basketValueNet": "9.24",
+    "says": "NA",
+    "storeName": "RUTHERGLEN EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Universal Bag For Life",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Italian Basil Pesto Tortelloni 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cauldron Falafel 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Fair Trade Banana 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Pink Lady Apples 440G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "CASH",
+      "category": "Cash",
+      "amount": "20.0"
+    }, {
+      "type": "CASH",
+      "category": "Cash",
+      "amount": "-19.0"
+    }],
+    "timeStamp": "2018-05-20 11:26:35",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Frijj Chocolate Milkshake 400Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.1",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.1"
+    }],
+    "timeStamp": "2018-05-18 22:24:32",
+    "basketValueNet": "1.1",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.5"
+    }],
+    "timeStamp": "2018-05-07 17:49:40",
+    "basketValueNet": "1.5",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Cauldron Falafel 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2018-04-25 23:13:57",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Cinnamon Bun",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2429",
+    "storeAddress": "RIVERSIDE DRIVE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.5"
+    }],
+    "timeStamp": "2018-04-24 20:48:40",
+    "basketValueNet": "3.5",
+    "says": "NA",
+    "storeName": "DUNDEE RIVRSIDE EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Goodfella's Stonebaked Thin Chicken 365G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Dr. Oetker Ristorante Pizza Pepperoni Salame 320G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.45",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6383",
+    "storeAddress": "33, Beardmore Way,GALLOWGATE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.45"
+    }],
+    "timeStamp": "2018-04-18 16:03:57",
+    "basketValueNet": "3.45",
+    "says": "NA",
+    "storeName": "PARKHEAD FORGE EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 4 Crispy Chicken 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.75",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.39",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.39"
+    }],
+    "timeStamp": "2018-04-04 19:15:52",
+    "basketValueNet": "1.39",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Belvita Crunchy Chocolate Chips 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.14",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6198",
+    "storeAddress": "1201 Maryhill Road,CENTRAL SCOTLAND,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.14"
+    }],
+    "timeStamp": "2018-03-31 18:57:23",
+    "basketValueNet": "5.14",
+    "says": "NA",
+    "storeName": "GLASGOW MARYHIL EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Organic Whole Wheat Spelt Fusil Pasta 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Fair Trade Banana 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Luxury Soft Toilet Tissue White 4 Roll 964 Sheet",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Surcare Wash Up Liquid 450Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2018-03-22 20:37:52",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Goodfella's Stonebaked Thin Margherita 345G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.02",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.6",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "CASH",
+      "category": "Cash",
+      "amount": "0.4"
+    }, {
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.02"
+    }],
+    "timeStamp": "2018-03-13 20:59:46",
+    "basketValueNet": "3.42",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Kinder Bueno Bar 43G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mcvities Hobnobs Chocolate Flap Jack 5 Pack 148.5G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.72",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Trebor Softmint Spearmints 17 Pack (C)",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Nutella B-Ready 22G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.1",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "7.1"
+    }],
+    "timeStamp": "2018-03-13 18:36:05",
+    "basketValueNet": "7.1",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Meridian Hazelnut & Cocoa Butter 170G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Green & Blacks Organic Hot Chocolate 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.6",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.84",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.84"
+    }],
+    "timeStamp": "2018-03-11 21:28:52",
+    "basketValueNet": "1.84",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Whole Milk 2.272L/4 Pints",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.84",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.2",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.2"
+    }],
+    "timeStamp": "2018-03-09 16:32:53",
+    "basketValueNet": "1.2",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Cadbury Layers Of Joy Limited Edition 2X90g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "8.87",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "2458",
+    "storeAddress": "94 NICOLSON STREET,EDINBURGH,LOTHIAN",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "8.49"
+    }],
+    "timeStamp": "2018-03-04 21:56:40",
+    "basketValueNet": "8.49",
+    "says": "NA",
+    "storeName": "EDINBURGH METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ferrero Kinder Milk Slice 28G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.59",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Braeburn Apples 630G (C)",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Grahams Organic Scottish Slightly Salted Block Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Universal Bag For Life",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.1",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.1"
+    }],
+    "timeStamp": "2018-03-02 22:55:10",
+    "basketValueNet": "1.1",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.75"
+    }],
+    "timeStamp": "2018-02-27 18:07:24",
+    "basketValueNet": "5.75",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cheese & Tomato Basil Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye Cod Fish Fingers 10 Pack 280G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "16.94",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.14",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "16.8"
+    }],
+    "timeStamp": "2018-02-13 02:48:05",
+    "basketValueNet": "16.8",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Luxury Soft Toilet Tissue White 4 Roll 964 Sheet",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Filled Chocolate Biscuits 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Rachel's Organic Divine Rice Twin Traditional 2X150g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Granini Peach Drink 1Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Surcare Wash Up Liquid 450Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Disney Soreen Chocolate Mini Loaves 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Simon Howie Veggie Haggis 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Gala Apples 630G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Old El Paso Super Soft Flour Tortillas Whole Wheat 8Pk 326G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.69",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cook Italian Grated Hard Cheese 50G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.31",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Potato Lattices 550G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Loves Baby Cotton Buds 100 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.45",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.58",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "6099",
+    "storeAddress": "300-304 byres road,LANARKSHIRE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.2"
+    }],
+    "timeStamp": "2018-02-09 17:35:11",
+    "basketValueNet": "2.2",
+    "says": "NA",
+    "storeName": "BYRES ROAD METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6353",
+    "storeAddress": "Unit 6/7 Merchant Bui,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.0"
+    }],
+    "timeStamp": "2018-02-07 21:31:26",
+    "basketValueNet": "2.0",
+    "says": "NA",
+    "storeName": "GLASGOW MERCHANT EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Mackies Sea Salt Crisps 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mackies Haggis & Cracked Black Pepper Crisps 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "10.59",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "10.34"
+    }],
+    "timeStamp": "2018-01-24 21:41:57",
+    "basketValueNet": "10.34",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belvita Soft Bakes Chocolate Chip 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mccain Hash Browns 625G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye Cod Fish Fingers 10 Pack 280G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.94",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "7.94"
+    }],
+    "timeStamp": "2018-01-12 19:18:09",
+    "basketValueNet": "7.94",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Pizza Express Dough Balls 95G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Organic Semi Skimmed Milk 2Pts/1.136L",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Tenderleaf Salad 85G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mashed Potato 425G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kelloggs Special K Dark Chocolate Chewy Delight 4X24g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Gala Apples 630G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.44",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2458",
+    "storeAddress": "94 NICOLSON STREET,EDINBURGH,LOTHIAN",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.44"
+    }],
+    "timeStamp": "2017-12-14 16:49:11",
+    "basketValueNet": "3.44",
+    "says": "NA",
+    "storeName": "EDINBURGH METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Semi Skimmed Milk 568Ml/1 Pint",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mission Deli 6 Wheat & White Mini Wraps",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Semi Skimmed Milk 568Ml/1 Pint",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.6",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.6"
+    }],
+    "timeStamp": "2017-12-05 21:16:27",
+    "basketValueNet": "5.6",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Nesquik Hot Chocolate 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Dr. Oetker Ristorante Pizza Mozzarella 335G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Whole Milk 568Ml/1 Pint",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "13.14",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.38",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "11.76"
+    }],
+    "timeStamp": "2017-12-01 00:59:49",
+    "basketValueNet": "11.76",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Organic Semi Skimmed Milk 568Ml/1 Pint",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Spinach 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mccain Hash Browns 625G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 4 Crispy Chicken 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.65",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.65"
+    }],
+    "timeStamp": "2017-11-25 15:17:10",
+    "basketValueNet": "5.65",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Birds Eye 4 Crispy Chicken 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Luxury Quilted White Toilet Tissue 4 Roll",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.85",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mixed Sized Organic Eggs 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.35",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.35"
+    }],
+    "timeStamp": "2017-11-17 00:31:06",
+    "basketValueNet": "1.35",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Mackies Ridge Crisps Lightly Salted 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Ibuprofen 200Mg 16 Tablets",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.35",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-11-08 21:21:32",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.58",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.2"
+    }],
+    "timeStamp": "2017-10-29 20:31:10",
+    "basketValueNet": "2.2",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6708",
+    "storeAddress": "80A, Nethergate,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-10-26 13:32:07",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "DUNDEE NETHERGATE EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.25"
+    }],
+    "timeStamp": "2017-10-23 19:51:47",
+    "basketValueNet": "5.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 4 Crispy Chicken 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mashed Potato 900G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-10-18 17:30:42",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2429",
+    "storeAddress": "RIVERSIDE DRIVE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-10-12 12:26:06",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "DUNDEE RIVRSIDE EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.25"
+    }],
+    "timeStamp": "2017-10-11 17:06:17",
+    "basketValueNet": "2.25",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Goodfella's Stonebaked Thin Margherita 345G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "10.8",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "10.55"
+    }],
+    "timeStamp": "2017-10-10 15:07:30",
+    "basketValueNet": "10.55",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Four Cheese Tortelloni 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Unsmoked Back Bacon 10 Rashers 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Grahams Organic Scottish Slightly Salted Block Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.41",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.41"
+    }],
+    "timeStamp": "2017-09-27 18:42:03",
+    "basketValueNet": "2.41",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Everyday Value Still Water 2Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.17",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kettle Chips Lightly Salted 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Dr Pepper 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.78",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.78"
+    }],
+    "timeStamp": "2017-09-26 21:08:13",
+    "basketValueNet": "3.78",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mixed Sized Organic Eggs 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Nesquik Chocolate Powder 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.18",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2017-09-25 16:49:47",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Milk Chocolate Cookie 5 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.25"
+    }],
+    "timeStamp": "2017-09-24 16:19:56",
+    "basketValueNet": "5.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Luxury Soft Toilet Tissue White 2 Roll 482 Sheet",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Organic Whole Milk 2 Pints/1.136Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.66",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.66"
+    }],
+    "timeStamp": "2017-09-18 15:29:38",
+    "basketValueNet": "2.66",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 2 Crispy Chicken 170G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mashed Potato 900G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-09-14 10:41:39",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.1",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.1"
+    }],
+    "timeStamp": "2017-09-13 21:23:57",
+    "basketValueNet": "1.1",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "4.0"
+    }],
+    "timeStamp": "2017-09-11 19:40:48",
+    "basketValueNet": "4.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Finest Triple Chocolate Shortbread 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 2 Crispy Chicken 170G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "0.4",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "0.4"
+    }],
+    "timeStamp": "2017-09-09 16:17:13",
+    "basketValueNet": "0.4",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Yupi Big Burger Jelly & Foam Fruit & Cream 32G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.4",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2458",
+    "storeAddress": "94 NICOLSON STREET,EDINBURGH,LOTHIAN",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-09-02 22:11:32",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "EDINBURGH METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2017-08-14 18:59:23",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Birds Eye 2 Crispy Chicken 170G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "8.32",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "5293",
+    "storeAddress": "DALMARNOCH ROAD,RUTHERGLEN,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "7.94"
+    }],
+    "timeStamp": "2017-08-13 18:57:59",
+    "basketValueNet": "7.94",
+    "says": "NA",
+    "storeName": "RUTHERGLEN EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Kitchen Foil 300Mm X 10M",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.35",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 100% Pressed Tomato Juice 1L",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kp Jumbo Spicy Chilli Peanuts 180G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.19",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Eci Selected Fried Tomato Plus Olive Oil 350G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "PAYQWIQ",
+      "category": "E-Purse Redemption",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-08-06 17:48:00",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "-1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.85",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.85"
+    }],
+    "timeStamp": "2017-08-02 19:03:12",
+    "basketValueNet": "3.85",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Maryland Thins Milk And Dark Chocolate Cookies 128G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 6 Pack Plastic Silver Hangers",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Dr Oetker Chocolate Chip Pudding In A Mug 65G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.85",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6198",
+    "storeAddress": "1201 Maryhill Road,CENTRAL SCOTLAND,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.5"
+    }],
+    "timeStamp": "2017-08-01 19:11:20",
+    "basketValueNet": "3.5",
+    "says": "NA",
+    "storeName": "GLASGOW MARYHIL EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Emma Giordani Spinach Ricotta Tortelloni 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Springforce Jumbo Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.64",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "6.64"
+    }],
+    "timeStamp": "2017-07-24 21:04:29",
+    "basketValueNet": "6.64",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Whole Wheat Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Linda Mccartney 2 Cheese Leek & Red Onion Plaits 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.32",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "MASTERCARD_DEBIT",
+      "category": "DEBIT CARD",
+      "amount": "2.32"
+    }],
+    "timeStamp": "2017-07-18 14:53:16",
+    "basketValueNet": "2.32",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Nandos Medium Peri Peri Sauce 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.32",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.07"
+    }],
+    "timeStamp": "2017-07-10 20:16:08",
+    "basketValueNet": "5.07",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cheese & Tomato Basil Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.99",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "9.99"
+    }],
+    "timeStamp": "2017-06-29 21:52:21",
+    "basketValueNet": "9.99",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Bahlsen Pick Up! Biscuit 5 Pack 140G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 6 Pack Plastic Silver Hangers",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Chocolate Delight No Added Sugar 49G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "PMS BACK SCRATCHER",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Whole Wheat Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Unsmoked Wiltshire Cured Bacon 240G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 12 Potato Waffles 680G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Everyday Value Vegetable Soup In A Mug 72G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.9",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "6099",
+    "storeAddress": "300-304 byres road,LANARKSHIRE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "3.52"
+    }],
+    "timeStamp": "2017-06-23 14:54:32",
+    "basketValueNet": "3.52",
+    "says": "NA",
+    "storeName": "BYRES ROAD METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-06-17 15:40:52",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ribena Blackcurrant Bottle 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "12.15",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "12.15"
+    }],
+    "timeStamp": "2017-06-12 02:17:10",
+    "basketValueNet": "12.15",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Organic Whole Wheat Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Haagen Dazs Cookies & Cream Ice Cream 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Happy Monkey Chocolate Milkshake 3X200ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mccain Quick Chips Crinkles 4 X 100G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Whole Milk 568Ml/1 Pint",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Drynites Girl Pyjama Pant Age 8-15 Years 9 Pants",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "5.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.58",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "6383",
+    "storeAddress": "33, Beardmore Way,GALLOWGATE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "2.2"
+    }],
+    "timeStamp": "2017-06-08 17:51:57",
+    "basketValueNet": "2.2",
+    "says": "NA",
+    "storeName": "PARKHEAD FORGE EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.65",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "5307",
+    "storeAddress": "751 BARHEAD ROAD,POLLOK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "9.4"
+    }],
+    "timeStamp": "2017-06-06 18:26:08",
+    "basketValueNet": "9.4",
+    "says": "NA",
+    "storeName": "GLASGOW SILVERBRN EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Birds Eye 4 Crispy Chicken 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cheese & Tomato Basil Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "T.Sunblush Tomato & Garlic All Butter Flatbread 230G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Non Stick Baking Paper 370Mm X 15M",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.4",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.79",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "5.79"
+    }],
+    "timeStamp": "2017-06-03 23:38:09",
+    "basketValueNet": "5.79",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco British Whole Long Life Milk 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Spontex Washups Non Scratch Value 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco British Whole Long Life Milk 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.55",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Whole Milk 568Ml/1 Pint",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Coldpress Pink Lady Apple Juice 750Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.79",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.06",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "6.06"
+    }],
+    "timeStamp": "2017-05-31 17:20:17",
+    "basketValueNet": "6.06",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Dr. Oetker Ristorante Pizza Mozzarella 335G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.2",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco American Punchy Pork 'N' Pineapple Pizza 376G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Everyday Value Still Water 2Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.17",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Boswell Farms Beef Mince 500G 20% Fat",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.69",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2017-05-30 16:39:34",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Springforce Jumbo Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.7",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "4.32"
+    }],
+    "timeStamp": "2017-05-30 00:37:57",
+    "basketValueNet": "4.32",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Loose Brown Onions",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "155",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "AMEX",
+      "category": "Credit Card/EFT",
+      "amount": "1.0"
+    }],
+    "timeStamp": "2017-05-27 14:49:21",
+    "basketValueNet": "1.0",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.51",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2458",
+    "storeAddress": "94 NICOLSON STREET,EDINBURGH,LOTHIAN",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.51"
+    }],
+    "timeStamp": "2017-05-20 20:42:25",
+    "basketValueNet": "2.51",
+    "says": "NA",
+    "storeName": "EDINBURGH METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Copella Apple And Mango Juice 300Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.19",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "8.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "8.25"
+    }],
+    "timeStamp": "2017-05-19 04:15:14",
+    "basketValueNet": "8.25",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Kabuto Rice Noodles Chicken Pho",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Muller Corner Crunch Chocolate Digestive Yogurt 135G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Frijj Limited Cookie Dough 471 Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Fajita Chicken Wrap",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.35",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Healthy Living Indian Takeaway Meal For One 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "0.95",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "0.95"
+    }],
+    "timeStamp": "2017-05-17 14:48:53",
+    "basketValueNet": "0.95",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mashed Potato 425G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.95",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "1.95"
+    }],
+    "timeStamp": "2017-05-15 17:37:18",
+    "basketValueNet": "1.95",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Bonne Maman Chocolate Mousse 2 X 70G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mashed Potato 425G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.4",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "6.4"
+    }],
+    "timeStamp": "2017-05-11 01:13:22",
+    "basketValueNet": "6.4",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Nando' Peri Peri Sauce Mild 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Old El Paso 8 Flour Tortillas +4 Ext.Free 489G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mature Grated Cheddar 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 12 Chicken Dippers 220G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "14.9",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.18",
+    "storeId": "6198",
+    "storeAddress": "1201 Maryhill Road,CENTRAL SCOTLAND,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "13.72"
+    }],
+    "timeStamp": "2017-05-10 00:36:29",
+    "basketValueNet": "13.72",
+    "says": "NA",
+    "storeName": "GLASGOW MARYHIL EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Mashed Potato 425G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.95",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 2 Garlic All Butter Baguettes 430G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 2 Cheese & Garlic All Butter Baguettes 420G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Graham's Organic Whole Milk 2 Pints/1.136Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Unsmoked Wiltshire Cured Bacon 240G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Tomato And Garlic Flatbread 220G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.79",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "PAYQWIQ",
+      "category": "E-Purse Redemption",
+      "amount": "1.79"
+    }],
+    "timeStamp": "2017-05-03 13:28:23",
+    "basketValueNet": "1.79",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Copella Apple And Mango Juice 300Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.19",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Muller Corner Crunch Vanilla Chocolate Balls Yogurt 135G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "10.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.6",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "PAYQWIQ",
+      "category": "E-Purse Redemption",
+      "amount": "9.4"
+    }],
+    "timeStamp": "2017-05-02 23:47:22",
+    "basketValueNet": "9.4",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Seeds Of Change Organic Sun Dried Tomato Stir/Serve 195G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Seeds Of Change Organic Sun Dried Tomato Stir/Serve 195G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Extra Virgin Olive Oil 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 2 Garlic All Butter Baguettes 430G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.42",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "7.42"
+    }],
+    "timeStamp": "2017-04-20 17:55:11",
+    "basketValueNet": "7.42",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Jacobs Cracker Crisp Smokey Bbq 150G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pepsi Cola 2 Litre Bottle",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Homepride Pasta Bake Tomato & Bacon Sauce 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.59",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spirali Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.59",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 6 Wholemeal Pitta Bread",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cauldron Falafel 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "23.6",
+    "purchaseType": "instore",
+    "overallBasketSavings": "1.25",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "22.35"
+    }],
+    "timeStamp": "2017-04-20 02:38:05",
+    "basketValueNet": "22.35",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 12 Potato Waffles 680G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kinder Chocolate Mini Eggs 182G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cheese & Tomato Basil Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Duracell 45 Minutes Battery Charger",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "9.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cadbury Egg 'N' Spoon Double Chocolate 136G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Spaghetti Pasta 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.22",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "4.22"
+    }],
+    "timeStamp": "2017-04-18 21:44:35",
+    "basketValueNet": "4.22",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Ben & Jerry's Sofa So Good Ice Cream 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "TESCO UNIVERSAL CARRIER BAGX 500",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.05",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Everyday Value Still Water 2Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.17",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.3",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "4410",
+    "storeAddress": "Hope Street,GLASGOW,GLASGOW",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.3"
+    }],
+    "timeStamp": "2017-04-16 21:11:41",
+    "basketValueNet": "2.3",
+    "says": "NA",
+    "storeName": "GLASGOW HOPE ST EXP",
+    "storeFormat": "Express",
+    "product": [{
+      "name": "COSTA EXPRESS    REGULAR ",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.3",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.63",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.38",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.25"
+    }],
+    "timeStamp": "2017-04-16 17:46:17",
+    "basketValueNet": "2.25",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "TESCO UNIVERSAL CARRIER BAGX 500",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.05",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.95",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5293",
+    "storeAddress": "DALMARNOCH ROAD,RUTHERGLEN,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "7.95"
+    }],
+    "timeStamp": "2017-04-14 03:38:47",
+    "basketValueNet": "7.95",
+    "says": "NA",
+    "storeName": "RUTHERGLEN EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Surcare Wash Up Liquid 450Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "T.Sunblush Tomato & Garlic All Butter Flatbread 230G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Grahams Organic Scottish Slightly Salted Block Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Cannelloni 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco 2 Garlic All Butter Baguettes 430G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.97",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6099",
+    "storeAddress": "300-304 byres road,LANARKSHIRE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "3.97"
+    }],
+    "timeStamp": "2017-04-09 20:12:36",
+    "basketValueNet": "3.97",
+    "says": "NA",
+    "storeName": "BYRES ROAD METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Seeds Of Change Organic Sun Dried Tomato Stir/Serve 195G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.99",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.29",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "1.29"
+    }],
+    "timeStamp": "2017-04-03 17:52:18",
+    "basketValueNet": "1.29",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Apple & Mango Juice Not From Concentrate 1 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.29",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.0"
+    }],
+    "timeStamp": "2017-03-31 17:10:30",
+    "basketValueNet": "2.0",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Springforce Jumbo Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Spring Force Toilet Tissue 4 Roll",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "3.0"
+    }],
+    "timeStamp": "2017-03-25 21:18:03",
+    "basketValueNet": "3.0",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Chicken Tomato & Basil Pasta Salad 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Belgian Chocolate Muffins 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.21",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2405",
+    "storeAddress": "60 MURRAYGATE,DUNDEE,TAYSIDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "1.21"
+    }],
+    "timeStamp": "2017-03-24 23:16:37",
+    "basketValueNet": "1.21",
+    "says": "NA",
+    "storeName": "DUNDEE METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Highland Spring Still Water 1.5 Litre",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.61",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kit Kat Chunky Cookie Dough 42G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6099",
+    "storeAddress": "300-304 byres road,LANARKSHIRE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "4.75"
+    }],
+    "timeStamp": "2017-03-22 17:10:10",
+    "basketValueNet": "4.75",
+    "says": "NA",
+    "storeName": "BYRES ROAD METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Birds Eye 10 Potato Waffles 567G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "8.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6383",
+    "storeAddress": "33, Beardmore Way,GALLOWGATE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "8.0"
+    }],
+    "timeStamp": "2017-03-12 20:11:19",
+    "basketValueNet": "8.0",
+    "says": "NA",
+    "storeName": "PARKHEAD FORGE EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Graham's Organic Whole Milk 2 Pints/1.136Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Unsmoked Wiltshire Cured Bacon 240G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Smart Tie Handle Swing Bin Liners 50L 25Pk",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Pizza Express Dough Balls 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Surcare Wash Up Liquid 450Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "13.61",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "2587",
+    "storeAddress": "COBDEN ROAD,ST ROLLOX BUSINESS PK,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "13.61"
+    }],
+    "timeStamp": "2017-03-08 03:59:40",
+    "basketValueNet": "13.61",
+    "says": "NA",
+    "storeName": "GLASGOW ST ROLLOX EXT",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mixed Sized Organic Eggs 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mikado King Chocolate 51G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.69",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Heinz Spaghetti Hoops In Tomato Sauce 205G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.27",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Brown Onions 940G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Ora Standard Kitchen Towel",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Yeo Valley Whole Milk 1L +13.5% Extra Free",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.1",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Heinz Spaghetti Hoops In Tomato Sauce 205G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.27",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Garlic 3 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.9",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Heinz Spaghetti Hoops In Tomato Sauce 205G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.27",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Cadbury Layers Of Joy 2 Pack Chocolate 2X90g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Heinz Spaghetti Hoops In Tomato Sauce 205G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.27",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-03-02 16:17:39",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Graham's Organic Whole Milk 2 Pints/1.136Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.75",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6198",
+    "storeAddress": "1201 Maryhill Road,CENTRAL SCOTLAND,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "1.75"
+    }],
+    "timeStamp": "2017-02-27 22:50:01",
+    "basketValueNet": "1.75",
+    "says": "NA",
+    "storeName": "GLASGOW MARYHIL EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Mcvities Digestive Nibbles Milk Chocolate 120G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.75",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Malteaster Minnie Bunnies Milk Chocolate Pouch 58G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2017-02-24 22:27:05",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Graham's Organic Whole Milk 2 Pints/1.136Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.64",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.64"
+    }],
+    "timeStamp": "2017-02-23 23:28:08",
+    "basketValueNet": "2.64",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "6.25"
+    }],
+    "timeStamp": "2017-02-23 11:07:50",
+    "basketValueNet": "6.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mccain Hash Browns 625G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Sterile Adhesive Dressing Assorted 5'S",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.5"
+    }],
+    "timeStamp": "2017-02-14 17:30:56",
+    "basketValueNet": "2.5",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bonne Maman Chocolate Mousse 2 X 70G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.82",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6099",
+    "storeAddress": "300-304 byres road,LANARKSHIRE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "3.82"
+    }],
+    "timeStamp": "2017-02-14 16:50:52",
+    "basketValueNet": "3.82",
+    "says": "NA",
+    "storeName": "BYRES ROAD METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mccain Hash Browns 625G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Birds Eye 10 Potato Waffles 567G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.7",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "5.7"
+    }],
+    "timeStamp": "2017-02-12 17:35:39",
+    "basketValueNet": "5.7",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Princes Tuna Chunks In Sflr Oil 4X185g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mcvities Chocolate Digestives Slices 5 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "7.57",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "5293",
+    "storeAddress": "DALMARNOCH ROAD,RUTHERGLEN,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "7.57"
+    }],
+    "timeStamp": "2017-02-06 00:59:59",
+    "basketValueNet": "7.57",
+    "says": "NA",
+    "storeName": "RUTHERGLEN EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel In Extra Olive Oil Skinless & Boneless 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Free Range Egg Linguine 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Rachel's Organic Divine Rice Twin Traditional 2X150g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "T.9 Cheese & Garlic All Butter Slices 280G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Rachel's Organic Divine Rice Twin Traditional 2X150g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Maryland Cookie Bites Chocolate Chip 120G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mikado King Chocolate 51G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.35",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.6",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "4.75"
+    }],
+    "timeStamp": "2017-01-31 15:48:34",
+    "basketValueNet": "4.75",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Kit Kat Chunky Cookie Dough 42G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mashed Potato 500G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Goodfella's Deep Pan Loaded Cheese 410G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kit Kat Chunky Cookie Dough 42G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Kit Kat Chunky Cookie Dough 42G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.6",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Everyday Valuejumbo Kitchen Towel 220 Sheets",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.8",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.8"
+    }],
+    "timeStamp": "2017-01-26 21:14:27",
+    "basketValueNet": "2.8",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mixed Sized Organic Eggs 6 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Mash Direct Mashed Potato 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "3.5"
+    }],
+    "timeStamp": "2017-01-22 18:04:53",
+    "basketValueNet": "3.5",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Bernard Matthews 15 Mini Kievs 340G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "3.5"
+    }],
+    "timeStamp": "2017-01-19 20:59:59",
+    "basketValueNet": "3.5",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Nestle Nesquick Milk Slice Chocolate Flavour 4X26g",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Unsmoked Wiltshire Cured Bacon 240G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "9.4",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6383",
+    "storeAddress": "33, Beardmore Way,GALLOWGATE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "9.15"
+    }],
+    "timeStamp": "2017-01-18 17:34:17",
+    "basketValueNet": "9.15",
+    "says": "NA",
+    "storeName": "PARKHEAD FORGE EXTRA",
+    "storeFormat": "Extra",
+    "product": [{
+      "name": "Tesco Cling Film 350Mm X 25M",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.4",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cheese & Tomato Basil Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Glass Square Roaster 21Cm",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "4.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.32",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6099",
+    "storeAddress": "300-304 byres road,LANARKSHIRE,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "1.32"
+    }],
+    "timeStamp": "2017-01-17 19:37:04",
+    "basketValueNet": "1.32",
+    "says": "NA",
+    "storeName": "BYRES ROAD METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.59",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6279",
+    "storeAddress": "76 Duke Street,LEITH,EDINBURGH,LOTHIAN",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "3.59"
+    }],
+    "timeStamp": "2017-01-11 16:59:09",
+    "basketValueNet": "3.59",
+    "says": "NA",
+    "storeName": "EDINBURGH LEITH",
+    "storeFormat": "SuperStore",
+    "product": [{
+      "name": "Green & Blacks Organic Hot Chocolate 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "3.59",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.7",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "3.7"
+    }],
+    "timeStamp": "2017-01-08 17:38:49",
+    "basketValueNet": "3.7",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Mackerel Fillets Sunflower Oil 125G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.66",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic Whole Milk 2.272L/4 Pints",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.84",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Korbond Tape Measure 60\"",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.2",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "3.75",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "CASH",
+      "category": "Cash",
+      "amount": "10.0"
+    }, {
+      "type": "CASH",
+      "category": "Cash",
+      "amount": "-6.25"
+    }],
+    "timeStamp": "2017-01-05 23:14:33",
+    "basketValueNet": "3.75",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Graham's Organic Whole Milk 2 Pints/1.136Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Finest Unsmoked Wiltshire Cured Bacon 240G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.75",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "1.75"
+    }],
+    "timeStamp": "2017-01-05 16:57:32",
+    "basketValueNet": "1.75",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Malteaser Cookie 4 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.3",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Ashbeck 2Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.45",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "4.0",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6164",
+    "storeAddress": "Unit 205,ST ENOCHS SHOPPING CENT,GLASGOW,CENTRAL",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "3.75"
+    }],
+    "timeStamp": "2017-01-03 14:11:55",
+    "basketValueNet": "3.75",
+    "says": "NA",
+    "storeName": "GLASGOW ST ENOCHS",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Cheese & Tomato Basil Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.75",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "CASH",
+      "category": "Cash",
+      "amount": "2.8"
+    }, {
+      "type": "CASH",
+      "category": "Cash",
+      "amount": "-0.05"
+    }],
+    "timeStamp": "2017-01-02 16:20:27",
+    "basketValueNet": "2.75",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Butter 250G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Goodfella's Stonebaked Thin Margherita 345G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "5.39",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "5.39"
+    }],
+    "timeStamp": "2016-12-15 09:03:28",
+    "basketValueNet": "5.39",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Sink & Drain Unblocker 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Spontex Essentials Glovemed 1Pk",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.8",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Spontex Non Scratch Washups 2 Pack",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.7",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Blue Dragon Medium Egg Noodles 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.39",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "1.25",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "1.25"
+    }],
+    "timeStamp": "2016-12-08 19:20:09",
+    "basketValueNet": "1.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Graham's Organic Whole Milk 2 Pints/1.136Ltr",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.25",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "2.95",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.0",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_CREDIT",
+      "category": "Credit Card/EFT",
+      "amount": "2.95"
+    }],
+    "timeStamp": "2016-12-06 17:17:05",
+    "basketValueNet": "2.95",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Nutella Hazelnut Chocolate Spread 200G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "1.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Frijj Chocolate Milkshake 400Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.65",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Organic White Bloomer 400G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "0.8",
+      "volumeInLitres": "NA"
+    }]
+  }, {
+    "basketValueGross": "6.5",
+    "purchaseType": "instore",
+    "overallBasketSavings": "0.25",
+    "storeId": "6539",
+    "storeAddress": "236 Sauchiehall St,GLASGOW,STRATHCLYDE",
+    "paymentType": [{
+      "type": "VISA_DEBIT",
+      "category": "Debit Card",
+      "amount": "6.25"
+    }],
+    "timeStamp": "2016-12-05 16:39:15",
+    "basketValueNet": "6.25",
+    "says": "NA",
+    "storeName": "GLASGOW SAUCHL METRO",
+    "storeFormat": "Metro",
+    "product": [{
+      "name": "Tesco Organic Extra Virgin Olive Oil 500Ml",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.5",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }, {
+      "name": "Tesco Spinach & Ricotta Tortelloni 300G",
+      "quantity": "1",
+      "channel": "instore",
+      "weightInGrams": "NA",
+      "price": "2.0",
+      "volumeInLitres": "NA"
+    }]
+  }], [], [{
+    "basketValueGross": "16.99",
+    "purchaseType": "GMO",
+    "overallBasketSavings": "0.0",
+    "storeId": "6933",
+    "storeAddress": "Tesco Direct Fulfilme,Danes Way DIRFT East,CRICK,NORTHAMPTONSHIRE",
+    "paymentType": [{
+      "amount": 16.99,
+      "type": "CREDIT_CARD"
+    }],
+    "timeStamp": "2017-03-07 07:04",
+    "basketValueNet": "16.99",
+    "says": "NA",
+    "storeName": "TESCO DIRECT OR WINE",
+    "storeFormat": "Dummy",
+    "product": [{
+      "volumeinlitres": 1.14,
+      "name": "Nintendo Switch Accessory Set (Carry Case + LCD Screen Protector)",
+      "quantity": 1.0,
+      "channel": "gmo",
+      "price": 16.99,
+      "weightingrams": 20
+    }, {
+      "volumeinlitres": null,
+      "name": "Delivery Service Item",
+      "quantity": 1.0,
+      "channel": "gmo",
+      "price": 0.0,
+      "weightingrams": null
+    }]
+  }, {
+    "basketValueGross": "48.0",
+    "purchaseType": "GMO",
+    "overallBasketSavings": "0.0",
+    "storeId": "6933",
+    "storeAddress": "Tesco Direct Fulfilme,Danes Way DIRFT East,CRICK,NORTHAMPTONSHIRE",
+    "paymentType": [{
+      "amount": 48.0,
+      "type": "CREDIT_CARD"
+    }],
+    "timeStamp": "2017-03-05 00:50",
+    "basketValueNet": "48.0",
+    "says": "NA",
+    "storeName": "TESCO DIRECT OR WINE",
+    "storeFormat": "Dummy",
+    "product": [{
+      "volumeinlitres": 0.0,
+      "name": "The Legend Of Zelda: Breath of the Wild- Nintendo Switch",
+      "quantity": 1.0,
+      "channel": "gmo",
+      "price": 48.0,
+      "weightingrams": 1
+    }, {
+      "volumeinlitres": null,
+      "name": "Delivery Service Item",
+      "quantity": 1.0,
+      "channel": "gmo",
+      "price": 0.0,
+      "weightingrams": null
+    }]
+  }], [], [], [], [], []],
+  "Order": [[], [], [], [], [], []]
+}
